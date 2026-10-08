@@ -1,6 +1,6 @@
 # SMARTPARK-MANAGEMENT
 ## LIVE DEMO
-https://codepen.io/editor/Rohit-kumar-S/pen/01a11995-654c-7ba2-9800-410699043410
+https://codepen.io/editor/pra_tish_tha-essvee/pen/01a11a65-8cae-7556-bd7d-1b99909b6bfa
 # PROJECT DESCRIPTION
 # SmartPark Management System
 
